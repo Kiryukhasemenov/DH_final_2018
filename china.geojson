@@ -1,0 +1,1717 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "name": "Heihe",
+        "link": "http://www.wikidata.org/entity/Q349983"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.488611,
+          50.245833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "name": "Heihe",
+        "link": "http://www.wikidata.org/entity/Q349983"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.49016,
+          50.24413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "name": "Heiyan",
+        "link": "http://www.wikidata.org/entity/Q28794408"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.017,
+          27.4877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "name": "Heilangkou",
+        "link": "http://www.wikidata.org/entity/Q28835300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.40167,
+          39.61278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000CD",
+        "marker-size": "medium",
+        "name": "蔚藍灣畔",
+        "link": "http://www.wikidata.org/entity/Q7315397"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.265,
+          22.3159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000CD",
+        "marker-size": "medium",
+        "name": "藍地",
+        "link": "http://www.wikidata.org/entity/Q6480699"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.98,
+          22.4254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000CD",
+        "marker-size": "medium",
+        "name": "藍田 (香港)",
+        "link": "http://www.wikidata.org/entity/Q6480708"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.236,
+          22.3094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "name": "綠島鄉",
+        "link": "http://www.wikidata.org/entity/Q701689"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.483,
+          22.6667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#1bd8ce",
+        "marker-size": "medium",
+        "name": "青磚圍",
+        "link": "http://www.wikidata.org/entity/Q10565972"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.982,
+          22.4226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#1bd8ce",
+        "marker-size": "medium",
+        "name": "Qingdao",
+        "link": "http://www.wikidata.org/entity/Q170322"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.4,
+          36.116666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#1bd8ce",
+        "marker-size": "medium",
+        "name": "Qingdao",
+        "link": "http://www.wikidata.org/entity/Q170322"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.4,
+          36.116666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#1bd8ce",
+        "marker-size": "medium",
+        "name": "Zhaoqing",
+        "link": "http://www.wikidata.org/entity/Q59164"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.45,
+          23.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#1bd8ce",
+        "marker-size": "medium",
+        "name": "Zhaoqing",
+        "link": "http://www.wikidata.org/entity/Q59164"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.45972,
+          23.05116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#1bd8ce",
+        "marker-size": "medium",
+        "name": "Daqing",
+        "link": "http://www.wikidata.org/entity/Q304848"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.00798,
+          46.59791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#1bd8ce",
+        "marker-size": "medium",
+        "name": "Qingyang",
+        "link": "http://www.wikidata.org/entity/Q533764"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6342,
+          35.73339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#1bd8ce",
+        "marker-size": "medium",
+        "name": "Qingyuan",
+        "link": "http://www.wikidata.org/entity/Q59213"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.05075,
+          23.68425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#1bd8ce",
+        "marker-size": "medium",
+        "name": "Qingyuan",
+        "link": "http://www.wikidata.org/entity/Q59213"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.03333,
+          23.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#1bd8ce",
+        "marker-size": "medium",
+        "name": "Qingping",
+        "link": "http://www.wikidata.org/entity/Q11062721"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.73,
+          25.1587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#1bd8ce",
+        "marker-size": "medium",
+        "name": "Chongqing",
+        "link": "http://www.wikidata.org/entity/Q11725"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.506944444,
+          29.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#1bd8ce",
+        "marker-size": "medium",
+        "name": "Gongqingtuan Nongchang",
+        "link": "http://www.wikidata.org/entity/Q31855794"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.55097,
+          32.26802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#1bd8ce",
+        "marker-size": "medium",
+        "name": "Gongqing Nongchang",
+        "link": "http://www.wikidata.org/entity/Q31856221"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.69404,
+          47.57153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#1bd8ce",
+        "marker-size": "medium",
+        "name": "Gongqing Jingyingsuo",
+        "link": "http://www.wikidata.org/entity/Q31856250"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.47415,
+          48.14026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#1bd8ce",
+        "marker-size": "medium",
+        "name": "Qinghaihu Nongchang",
+        "link": "http://www.wikidata.org/entity/Q34848716"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.1142,
+          37.24765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#1bd8ce",
+        "marker-size": "medium",
+        "name": "Qinghe Linchang",
+        "link": "http://www.wikidata.org/entity/Q34848732"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.96087,
+          48.87164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#1bd8ce",
+        "marker-size": "medium",
+        "name": "Qingkeng Linchang",
+        "link": "http://www.wikidata.org/entity/Q34848762"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.06977,
+          23.1239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#1bd8ce",
+        "marker-size": "medium",
+        "name": "Qinglin Linchang",
+        "link": "http://www.wikidata.org/entity/Q34848777"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.7193,
+          48.3555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#1bd8ce",
+        "marker-size": "medium",
+        "name": "Qingnian Nongchang",
+        "link": "http://www.wikidata.org/entity/Q34848793"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.85416,
+          39.50477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#1bd8ce",
+        "marker-size": "medium",
+        "name": "Qingnian Nongchang",
+        "link": "http://www.wikidata.org/entity/Q34848807"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.93418,
+          40.98669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#1bd8ce",
+        "marker-size": "medium",
+        "name": "Qingnian Nongchang",
+        "link": "http://www.wikidata.org/entity/Q34848823"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.23983,
+          41.49779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#1bd8ce",
+        "marker-size": "medium",
+        "name": "Qingnian Zonghe Kenzhichang",
+        "link": "http://www.wikidata.org/entity/Q34848839"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.27079,
+          27.67436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#1bd8ce",
+        "marker-size": "medium",
+        "name": "Qingshan Linchang",
+        "link": "http://www.wikidata.org/entity/Q34848854"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.38934,
+          47.44209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#1bd8ce",
+        "marker-size": "medium",
+        "name": "Qingshan Linchang",
+        "link": "http://www.wikidata.org/entity/Q34848869"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.69895,
+          47.5381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#1bd8ce",
+        "marker-size": "medium",
+        "name": "Qingshan Nongchang",
+        "link": "http://www.wikidata.org/entity/Q34848884"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.91927,
+          47.95235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#1bd8ce",
+        "marker-size": "medium",
+        "name": "Qingshankou Linchang",
+        "link": "http://www.wikidata.org/entity/Q34848898"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.5455,
+          47.83067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#1bd8ce",
+        "marker-size": "medium",
+        "name": "Qingyihu Nongchang",
+        "link": "http://www.wikidata.org/entity/Q34848929"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.89744,
+          34.35949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#1bd8ce",
+        "marker-size": "medium",
+        "name": "Yiqing Jingyingsuo",
+        "link": "http://www.wikidata.org/entity/Q34849768"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.1523,
+          47.88749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#1bd8ce",
+        "marker-size": "medium",
+        "name": "Gongqingtuan Nongchang",
+        "link": "http://www.wikidata.org/entity/Q31856524"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.43188,
+          44.29205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#1bd8ce",
+        "marker-size": "medium",
+        "name": "Qingmen",
+        "link": "http://www.wikidata.org/entity/Q14158817"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.9778,
+          27.5396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffffff",
+        "marker-size": "medium",
+        "name": "Baishan",
+        "link": "http://www.wikidata.org/entity/Q92348"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.41794,
+          41.93771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffffff",
+        "marker-size": "medium",
+        "name": "Baishan",
+        "link": "http://www.wikidata.org/entity/Q92348"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.41965,
+          41.93853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffffff",
+        "marker-size": "medium",
+        "name": "Baicheng",
+        "link": "http://www.wikidata.org/entity/Q92381"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.82076,
+          45.60746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffffff",
+        "marker-size": "medium",
+        "name": "Baicheng",
+        "link": "http://www.wikidata.org/entity/Q92381"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.832,
+          45.6148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffffff",
+        "marker-size": "medium",
+        "name": "Baise",
+        "link": "http://www.wikidata.org/entity/Q571949"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.61943,
+          23.90103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffffff",
+        "marker-size": "medium",
+        "name": "Baiyin",
+        "link": "http://www.wikidata.org/entity/Q532981"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1766,
+          36.5448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffffff",
+        "marker-size": "medium",
+        "name": "Baiyin",
+        "link": "http://www.wikidata.org/entity/Q532981"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.17023,
+          36.54696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffffff",
+        "marker-size": "medium",
+        "name": "Huangbaiyu",
+        "link": "http://www.wikidata.org/entity/Q3141857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.35,
+          41.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffffff",
+        "marker-size": "medium",
+        "name": "Baitang",
+        "link": "http://www.wikidata.org/entity/Q11078377"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.49111,
+          26.08822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffffff",
+        "marker-size": "medium",
+        "name": "Baisha",
+        "link": "http://www.wikidata.org/entity/Q712753"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.592361111,
+          23.663391666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffffff",
+        "marker-size": "medium",
+        "name": "Bailong",
+        "link": "http://www.wikidata.org/entity/Q14177294"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.26791,
+          25.93031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffffff",
+        "marker-size": "medium",
+        "name": "Baimaoping",
+        "link": "http://www.wikidata.org/entity/Q28857609"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.36389,
+          26.26194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffffff",
+        "marker-size": "medium",
+        "name": "Baishishan",
+        "link": "http://www.wikidata.org/entity/Q28809198"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.56667,
+          43.58333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffffff",
+        "marker-size": "medium",
+        "name": "Dabaizhuang",
+        "link": "http://www.wikidata.org/entity/Q28824840"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.38028,
+          39.44472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffffff",
+        "marker-size": "medium",
+        "name": "Baijian",
+        "link": "http://www.wikidata.org/entity/Q29613575"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.20861,
+          39.99417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffffff",
+        "marker-size": "medium",
+        "name": "Chabaihu",
+        "link": "http://www.wikidata.org/entity/Q29613819"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.14833,
+          39.46556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffffff",
+        "marker-size": "medium",
+        "name": "白田邨",
+        "link": "http://www.wikidata.org/entity/Q7125392"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.167,
+          22.3364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffffff",
+        "marker-size": "medium",
+        "name": "白龙乡",
+        "link": "http://www.wikidata.org/entity/Q14177294"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.26791,
+          25.93031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffffff",
+        "marker-size": "medium",
+        "name": "白泥",
+        "link": "http://www.wikidata.org/entity/Q7125365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.948,
+          22.4371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffffff",
+        "marker-size": "medium",
+        "name": "白勉峡乡",
+        "link": "http://www.wikidata.org/entity/Q17066199"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.9689,
+          33.02034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffffff",
+        "marker-size": "medium",
+        "name": "白鹭村",
+        "link": "http://www.wikidata.org/entity/Q14549915"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.1488889,
+          26.245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffff00",
+        "marker-size": "medium",
+        "name": "Huangshan City",
+        "link": "http://www.wikidata.org/entity/Q180470"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.31506,
+          29.71318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffff00",
+        "marker-size": "medium",
+        "name": "Huangshi",
+        "link": "http://www.wikidata.org/entity/Q71204"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.03262,
+          30.20178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffff00",
+        "marker-size": "medium",
+        "name": "Huanggang",
+        "link": "http://www.wikidata.org/entity/Q71355"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.87035,
+          30.45143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffff00",
+        "marker-size": "medium",
+        "name": "Huanggang",
+        "link": "http://www.wikidata.org/entity/Q71355"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.87991,
+          30.45246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffff00",
+        "marker-size": "medium",
+        "name": "Huangnitang",
+        "link": "http://www.wikidata.org/entity/Q1632840"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.64138889,
+          28.83194444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffff00",
+        "marker-size": "medium",
+        "name": "Huangbaiyu",
+        "link": "http://www.wikidata.org/entity/Q3141857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.35,
+          41.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffff00",
+        "marker-size": "medium",
+        "name": "Huanghuacheng",
+        "link": "http://www.wikidata.org/entity/Q5925938"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.35,
+          40.416666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffff00",
+        "marker-size": "medium",
+        "name": "Huangsi",
+        "link": "http://www.wikidata.org/entity/Q11177017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.40124,
+          26.58666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffff00",
+        "marker-size": "medium",
+        "name": "Huangpiao",
+        "link": "http://www.wikidata.org/entity/Q11178624"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.9775,
+          26.8804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffff00",
+        "marker-size": "medium",
+        "name": "Huanghu Nongchang",
+        "link": "http://www.wikidata.org/entity/Q34848126"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.82573,
+          30.69703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffff00",
+        "marker-size": "medium",
+        "name": "Huangtiandi",
+        "link": "http://www.wikidata.org/entity/Q5926045"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.05,
+          31.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffff00",
+        "marker-size": "medium",
+        "name": "Huangjinjing",
+        "link": "http://www.wikidata.org/entity/Q28798660"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.89133,
+          27.58563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffff00",
+        "marker-size": "medium",
+        "name": "Huangsangping Miaozuxiang",
+        "link": "http://www.wikidata.org/entity/Q28798668"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.055,
+          26.42667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffff00",
+        "marker-size": "medium",
+        "name": "Huangtukuang",
+        "link": "http://www.wikidata.org/entity/Q28798674"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.40778,
+          26.91528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffff00",
+        "marker-size": "medium",
+        "name": "Huangxikou",
+        "link": "http://www.wikidata.org/entity/Q28798676"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.385,
+          27.71889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffff00",
+        "marker-size": "medium",
+        "name": "Dahuangpu",
+        "link": "http://www.wikidata.org/entity/Q28799722"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.27778,
+          39.44111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffff00",
+        "marker-size": "medium",
+        "name": "Cuihuangkou",
+        "link": "http://www.wikidata.org/entity/Q28799843"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.18056,
+          39.52583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffff00",
+        "marker-size": "medium",
+        "name": "黄田村",
+        "link": "http://www.wikidata.org/entity/Q14371193"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.4972222,
+          30.46111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffff00",
+        "marker-size": "medium",
+        "name": "Bahuang",
+        "link": "http://www.wikidata.org/entity/Q28804358"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.01889,
+          27.71806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffff00",
+        "marker-size": "medium",
+        "name": "Huangnihe",
+        "link": "http://www.wikidata.org/entity/Q28809518"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.02389,
+          43.55833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffff00",
+        "marker-size": "medium",
+        "name": "Huangjin Yaozuxiang",
+        "link": "http://www.wikidata.org/entity/Q28825611"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.555,
+          26.41972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffff00",
+        "marker-size": "medium",
+        "name": "Huangmaoyuan",
+        "link": "http://www.wikidata.org/entity/Q28832083"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.47472,
+          27.40417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffff00",
+        "marker-size": "medium",
+        "name": "黄冈市",
+        "link": "http://www.wikidata.org/entity/Q71355"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.87035,
+          30.45143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "name": "Hongcun",
+        "link": "http://www.wikidata.org/entity/Q4008"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.981666666,
+          30.003611111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "name": "Beihong",
+        "link": "http://www.wikidata.org/entity/Q10903842"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.2833333,
+          53.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "name": "Tsz Hong Estate",
+        "link": "http://www.wikidata.org/entity/Q16922444"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.20242,
+          22.34764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "name": "Hong Tung Estate",
+        "link": "http://www.wikidata.org/entity/Q8428077"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.222489,
+          22.284436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "name": "Hong Yat Court",
+        "link": "http://www.wikidata.org/entity/Q16923113"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2346,
+          22.3107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "name": "Hongxing Nongchang",
+        "link": "http://www.wikidata.org/entity/Q31856358"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.95532,
+          48.12716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "name": "Hongguang Linchang",
+        "link": "http://www.wikidata.org/entity/Q31856359"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.55015,
+          48.13769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "name": "Dongfanghong Linchang",
+        "link": "http://www.wikidata.org/entity/Q31856360"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.62102,
+          48.10626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "name": "Hongsebianjiang Nongchang",
+        "link": "http://www.wikidata.org/entity/Q31856409"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.53592,
+          49.78461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "name": "Hongguang Linchang",
+        "link": "http://www.wikidata.org/entity/Q31856285"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.94631,
+          47.21257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "name": "Hongshiyue Nongchang",
+        "link": "http://www.wikidata.org/entity/Q31854308"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.77333,
+          21.91111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "name": "Hongwuyue Nongchang",
+        "link": "http://www.wikidata.org/entity/Q31854310"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.86111,
+          22.00556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "name": "Hongyang Nongchang",
+        "link": "http://www.wikidata.org/entity/Q31854396"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.38833,
+          21.71528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "name": "Hongxing Nongchang",
+        "link": "http://www.wikidata.org/entity/Q34848070"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.34778,
+          20.38528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "name": "Dahongliutan",
+        "link": "http://www.wikidata.org/entity/Q5208941"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.2,
+          36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "name": "Hongxin",
+        "link": "http://www.wikidata.org/entity/Q5896050"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.768611111,
+          31.105555555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "name": "Hongzhou",
+        "link": "http://www.wikidata.org/entity/Q28832056"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.40889,
+          26.12583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "name": "Dahongliuxia",
+        "link": "http://www.wikidata.org/entity/Q34799957"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7403,
+          44.17654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "name": "紅磡邨",
+        "link": "http://www.wikidata.org/entity/Q16922883"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.18894,
+          22.30737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "name": "紅磡",
+        "link": "http://www.wikidata.org/entity/Q3043091"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.183,
+          22.3038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "name": "红崖村",
+        "link": "http://www.wikidata.org/entity/Q426534"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.865888888,
+          36.378083333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "name": "红岩村",
+        "link": "http://www.wikidata.org/entity/Q13681677"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.20465,
+          29.96114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "name": "红山 (新加坡)",
+        "link": "http://www.wikidata.org/entity/Q4986926"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.823919444,
+          1.281905555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "name": "红门石",
+        "link": "none"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.395251,
+          36.911431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "name": "红门",
+        "link": "none"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.645854,
+          27.600398
+        ]
+      }
+    }
+  ]
+}
