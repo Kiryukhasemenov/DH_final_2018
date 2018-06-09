@@ -29,4 +29,4 @@ We used Wikidata queries made with SPARQL language, and for Chinese we also chec
 
 3. Manual check of the results (in order to avoid homonimy)
 
-4. Creating the Python code to visualise the  data (matplotlib.pyplot library)
+4. Creating the Python code to visualise the  data (matplotlib.pyplot library). The code is in unpacking.ipynb as well.
