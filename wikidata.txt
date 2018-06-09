@@ -1,0 +1,15 @@
+ #defaultView:Map
+SELECT ?item ?itemLabel ?coord ?country
+WHERE
+{
+	?item wdt:P31/wdt:P279* wd:Q486972 .
+     ?item rdfs:label ?itemLabel .
+    ?item wdt:P625 ?coord .
+    ?item wdt:P17 ?country .
+    FILTER (?country IN (wd:Q183,wd:Q40,wd:Q39, wd:Q32, wd:Q347)) .
+          #FILTER 
+    	      #wdt:P17 wd:Q183;
+    	
+     FILTER (lang(?itemLabel) = "de") .
+     FILTER regex (?itemLabel, "(S|s)chwarz").
+}
